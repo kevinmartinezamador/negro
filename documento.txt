@@ -7,3 +7,29 @@ alimentos del caribe
 mi futuro empresa en proceso 
 
 cartagena bolivar
+
+LISTADO 12 DE COMANDOS NUEVOS
+
+1 git init (inicial al repocitorio)
+
+2 git add . (agrega todo a repocitorio)
+
+3 git commit -m "nombre del commit"
+
+4 git reset  (revierte todo lo que hace git add)
+
+5 git checkout --. (recostrulle los archivos del repocitorio a como estaba en el oltimo commit)
+
+6 git log (muestra todo el listado de los commit) 
+
+7 git commit --amend (para arreglar el ultimo commit y para salirte  preciona esc + : a q enter)
+
+8 git checkout -b rama -nombre nueva rama (para crear otra rama)
+
+9 git checkout master o el nombre de la otra rama (sirve para cambiar de rama)
+
+10 git branch -d rama nombre de la rama (para borrar la rama) 
+
+11 git push (para agregar a el repocitorio github)
+
+12 git commit -am "mensaje del commit" (asi se hace el git add . y el git commit -m "nombre commit" a la vez)
